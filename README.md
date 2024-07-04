@@ -17,6 +17,7 @@ CoinRadar is a web application that tracks live prices and detailed information 
 
 ## Usage
 
+- Visit the landing page at [CoinRadar Info](https://doncarbon.github.io/coinradar-landing/)
 - Visit the deployed application at [CoinRadar](https://coinradar-frontend.vercel.app/)
 - Use the search bar to find information on specific cryptocurrencies.
 
